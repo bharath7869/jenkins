@@ -1,3 +1,4 @@
+
 sudo yum update -y
 sudo yum install java-1.8.0
 sudo yum remove java-1.7.0-openjdk
@@ -41,3 +42,6 @@ cd /var/www/html
 echo "bharath" >index.html
 service httpd start
 chkconfig httpd on 
+==============================
+i am bharath 
+
